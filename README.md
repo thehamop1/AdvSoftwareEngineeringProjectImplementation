@@ -4,15 +4,15 @@
 
 ## Group Number
 
-    - 7
+    - 4
 
 ## Group Members
 
     | Name               | Github                            |
     | ------------------ | --------------------------------- |
     | Cristian Gutierrez | https://github.com/thehamop1      |
-    | Archana Ravi       | https://github.com/darshikasondra |
-    | Darshi Kasondra    | https://github.com/               |
+    | Archana Ravi       |                                   |
+    | Darshi Kasondra    | https://github.com/darshikasondra |              
     | Mounica Dingari    | https://github.com/               |
 
 ## Topic
